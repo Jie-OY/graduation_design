@@ -1,0 +1,6 @@
+[2017-08-25 01:42:57,000] - ERROR - __init__.py - db_connect - 25 - database connection failed --- Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+to interface with the current application object in a way.  To solve
+this set up an application context with app.app_context().  See the
+documentation for more information.

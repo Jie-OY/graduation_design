@@ -1,0 +1,27 @@
+[2017-08-26 12:05:05,210] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: ('42S22', "[42S22] [Microsoft][SQL Server Native Client 11.0][SQL Server]���� 'sNum' ��Ч�� (207) (SQLExecDirectW)")
+[2017-08-26 12:16:55,682] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: ('42S22', "[42S22] [Microsoft][SQL Server Native Client 11.0][SQL Server]���� 'UserIID' ��Ч�� (207) (SQLExecDirectW)")
+[2017-08-26 14:56:48,972] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: 'pNum'
+[2017-08-26 15:22:00,491] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: ('The SQL contains 2 parameter markers, but 3 parameters were supplied', 'HY000')
+[2017-08-26 15:32:08,432] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: module 'flask.app' has no attribute 'config'
+[2017-08-26 15:47:40,379] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-26 15:47:57,950] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-26 22:34:34,434] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: name 'ID' is not defined
+[2017-08-26 22:37:57,953] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: Incorrect padding
+[2017-08-26 22:49:27,345] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: 'dict' object has no attribute 'UserIPsd'
+[2017-08-26 22:50:53,222] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: 'dict' object has no attribute 'UserIPsd'
+[2017-08-27 09:15:19,507] - ERROR - api.py - info - 75 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 09:15:43,409] - ERROR - api.py - info - 75 - [201421167]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:21:45,452] - ERROR - api.py - info - 82 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:22:37,948] - ERROR - api.py - info - 82 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:30:08,697] - ERROR - api.py - info - 82 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:31:12,814] - ERROR - api.py - info - 82 - [201421167]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:43:13,783] - ERROR - api.py - info - 82 - [201421167]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:43:43,213] - ERROR - api.py - info - 82 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:46:25,283] - ERROR - api.py - info - 82 - [201421167]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:50:55,370] - ERROR - api.py - info - 82 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:53:25,107] - ERROR - api.py - info - 82 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:54:47,032] - ERROR - api.py - info - 82 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-27 10:56:02,694] - ERROR - api.py - info - 82 - [2014211674]信息修改失败: 'NoneType' object has no attribute 'ID'
+[2017-08-29 10:10:12,602] - ERROR - api.py - quiz_list - 94 - dumps() missing 1 required positional argument: 'obj'
+[2017-08-29 10:12:40,236] - ERROR - api.py - quiz_list - 94 - dumps() missing 1 required positional argument: 'obj'
+[2017-08-29 10:18:43,719] - ERROR - api.py - quiz_list - 96 - name 'jsonify' is not defined
